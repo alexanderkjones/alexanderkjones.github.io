@@ -139,6 +139,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-size:medium;
   }
 
   .card-item {
@@ -198,7 +199,8 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  // font-size: 0.875rem;
+  font-size: 0.95rem;
 
   a {
     color: inherit;
@@ -619,6 +621,8 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+    /* Modifications Below */
+    font-weight:500;
   }
 }
 

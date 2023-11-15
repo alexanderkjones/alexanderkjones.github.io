@@ -6,6 +6,8 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span> {{- site.last_name -}}
+            <!--- This block is not working for some reason, manually overwridden above
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -18,7 +20,7 @@
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
-            {%- endif -%}
+            {%- endif -%} -->
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+title: portfolio
+permalink: /portfolio/
+description: This is where you'll find my list of projects - both in progress and past work. I'm open to collaborations across any fields related to the projects shown, and I also offer mentorship on similar student projects via virtual coffees ☕
+nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [current, robots, accesibility, code, testing, work]
 horizontal: false
 ---
 
