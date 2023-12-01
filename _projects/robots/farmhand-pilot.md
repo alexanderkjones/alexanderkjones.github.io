@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Farmhand Pilot
-description: a project that redirects to another website
+description: early prototyping of the Farmhand Rover
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 1
 category: robots
 ---

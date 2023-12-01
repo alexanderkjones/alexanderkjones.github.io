@@ -20,6 +20,6 @@ social: false  # includes social icons at the bottom of the page
 
 👋 Hello! My name is Alex, I am a recent graduate research fellow with a decade of experience in tech. My current position is funded through the [National Science Foundation](https://www.nsf.gov/), and I currently operate in the [Spatial Computing Department](https://spatial.umaine.edu/) at the [University of Maine](https://umaine.edu/). 
 
-I am bringing my background in Robotics, Enginering, and Human Centered Design into the academy to help shape the future of engineering education in the 21st century.
+I am using my background in Robotics, Enginering, and User Centered Design to help shape the future of engineering education in the 21st century through academic research.
 
-My research seeks to bridge the gap between engineering education and underserved communities by building [Virtual Makerspaces](/projects/current/virtual-makerspaces) and [Interdisciplinary Engineering Pedegogies](/projects/current/generative-engineering). These are big tent ideas and I can't wait to see how we can collaborate together, please reach out!
+My research seeks to bridge the gap between engineering education and underserved communities by building virtual makerspaces and interdisciplinary engineering pedegogies. These are big tent ideas and I can't wait to see how we can collaborate together, please reach out!
