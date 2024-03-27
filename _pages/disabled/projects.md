@@ -3,7 +3,7 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 description: This is where you'll find my list of projects - both in progress and past work. I'm open to collaborations across any fields related to the projects shown, and I also offer mentorship on similar student projects via virtual coffees ☕
-nav: true
+nav: false
 nav_order: 2
 ---
 <div class="row">
